@@ -1,16 +1,16 @@
-# Streamlit LSTM AE — Cloud-compatible deps (Py 3.13)
+# Streamlit Cloud (Python 3.13) — wheels-only, fast build
 streamlit==1.37.1
 
-# Data stack
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.5.1
+# Data stack (Py 3.13 wheels available)
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
 
-# Deep learning (CPU) — supports Python 3.13 on Linux
+# Deep learning (CPU)
 torch==2.5.0
 
 # Charts
-plotly==5.24.0
+plotly==5.24.1
 
 # Excel reader
 openpyxl==3.1.5
