@@ -1,0 +1,16 @@
+# Core app
+streamlit==1.37.1
+
+# Data + math
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+
+# Deep learning
+torch==2.3.1
+
+# Plots
+plotly==5.24.0
+
+# Excel reader for .xlsx
+openpyxl==3.1.5
